@@ -1,3 +1,5 @@
+### Hello! :wave:
+
 #### Areas of interest:
 - Astro
 - Pico CSS

@@ -1,9 +1,7 @@
+
 ### Hello! :wave:
 
 #### Areas of interest:
-- Astro
-- Pico CSS
-- Alpine JS
-- SwiftUI
-- .NET MAUI
-- SQL
+<center>
+Astro | Pico CSS | Alpine JS | SwiftUI | .NET MAUI
+</center>
